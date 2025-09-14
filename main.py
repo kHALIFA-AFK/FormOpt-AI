@@ -1,7 +1,7 @@
 import torch
 from torch_geometric.loader import DataLoader
 from torch_geometric.utils import from_networkx
-from gnn.train_copy import train_model
+from gnn.train import train_model
 import networkx as nx
 import pandas as pd
 import matplotlib.pyplot as plt

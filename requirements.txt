@@ -1,0 +1,22 @@
+# Core deep learning
+torch
+torchvision
+torchaudio
+torch-geometric
+
+# PyTorch Geometric dependencies (scatter/sparse/cluster)
+# These are automatically installed with torch-geometric if compatible,
+# but you can explicitly add them if needed
+torch-scatter
+torch-sparse
+torch-cluster
+
+# Data handling
+pandas
+networkx
+
+# Visualization
+matplotlib
+
+# Optional: Jupyter support for interactive work
+jupyter
